@@ -1,0 +1,18 @@
+
+a{
+    text-decoration:none;
+    background-color:black;
+    color:white;
+    margin-left:45%;
+    font-size:30px;
+}
+a:hover{
+    background-color: red;
+    color:white;
+    font-size:50px;
+}
+body{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/7th_-_8th_century_Galaganatha%2C_Sangameswara_and_Kashivishweswara_(right)_Hindu_temples%2C_Pattadakal_monuments_Karnataka.jpg/1024px-7th_-_8th_century_Galaganatha%2C_Sangameswara_and_Kashivishweswara_(right)_Hindu_temples%2C_Pattadakal_monuments_Karnataka.jpg');
+    background-repeat:no-repeat;
+    background-size:cover ;
+}

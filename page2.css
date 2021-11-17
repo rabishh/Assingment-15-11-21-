@@ -1,0 +1,30 @@
+
+header{
+    text-align:center;
+    background-color:khaki;
+}
+.image1{
+    width:35%;
+    height:300px;
+    float:left;
+}
+.para{
+    width:65%;
+    height:auto;
+    float:left;
+}
+a{
+    text-decoration:none;
+    background-color:black;
+    color:white;
+    margin-left:45%;
+    font-size:30px;
+}
+a:hover{
+    background-color: red;
+    color:white;
+    font-size:50px;
+}
+section{
+    overflow:auto;
+}
